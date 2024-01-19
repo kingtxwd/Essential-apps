@@ -1,0 +1,72 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:Essential_Apps.MVM.View">
+
+    <Style x:Key= "PsTheme" TargetType="Button">
+        <Setter Property="MinWidth" Value="168"/>
+        <Setter Property="MaxWidth" Value="208"/>
+        <Setter Property="Height" Value="250"/>
+        <Setter Property="Margin" Value="5" />
+        <Setter Property="RenderTransform">
+            <Setter.Value>
+                <TranslateTransform/>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <local:ClippingBorder CornerRadius="10">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="4*"/>
+                                <RowDefinition Height="3*"/>
+                            </Grid.RowDefinitions>
+                            <Grid Background="SteelBlue" Grid.Row ="0">
+                                <Border CornerRadius="8,8,8,8"
+                                            Width="80"
+                                            Height= "80">
+                                    <Border.Background>
+                                        <ImageBrush Stretch="None" ImageSource="/Images/ps.png"/>
+                                    </Border.Background>
+                                </Border>
+                            </Grid>
+                            <Grid  Background="#64FFFFFF" Grid.Row="1">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="3*"/>
+                                    <RowDefinition Height="2*"/>
+                                </Grid.RowDefinitions>
+                                <TextBox Margin="17,12,17,12" Text="Adobe PhotoShop" Background="Transparent"  VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="16"></TextBox>
+                                <StackPanel Grid.Row="1" Orientation="Horizontal">
+                                    <TextBox Margin="17,0,0,12" x:Name="score" Text="3.9" Foreground="#80222222" Background="Transparent" VerticalAlignment="Bottom" HorizontalAlignment="Left" FontSize="16"></TextBox>
+                                    <Canvas>
+                                        <Path Data="M 50 0 L 61.8 35.4 H100 L70.9 57.2 L 82.6 92.8 L 50 74.1 L 17.4 92.8 L29.1 57.2 L0 35.4 H 38.2 Z"
+Fill="#80222222"  Height="20" Stretch="Fill" Width="25" HorizontalAlignment="Center" Canvas.Left="0.267" Canvas.Top="10" VerticalAlignment="Top"/>
+                                    </Canvas>
+                                </StackPanel>
+                                <Button Margin="0,0,17,12" Grid.Row="1" Content ="Paid" Style="{StaticResource OwnerButtonTheme}" HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
+                            </Grid>
+                        </Grid>
+                    </local:ClippingBorder>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter Property="Background" Value="#e6FFFFFF"></Setter>
+                <Setter Property="RenderTransform">
+                    <Setter.Value>
+                        <TranslateTransform Y="-5"/>
+                    </Setter.Value>
+                </Setter>
+            </Trigger>
+            <Trigger Property="IsMouseOver" Value="False">
+                <Setter Property="Background" Value="#64FFFFFF"></Setter>
+                <Setter Property="RenderTransform">
+                    <Setter.Value>
+                        <TranslateTransform />
+                    </Setter.Value>
+                </Setter>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+</ResourceDictionary>

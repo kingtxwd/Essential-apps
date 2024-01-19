@@ -1,0 +1,36 @@
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\bin\Release\Essential Apps.exe.config
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\bin\Release\Essential Apps.exe
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\bin\Release\Essential Apps.pdb
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\Essential Apps.csproj.AssemblyReference.cache
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\Theme\OwnerButtonTheme.baml
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\Theme\SeeAllButtonTheme.baml
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\TikTokWindow.baml
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\App.baml
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\DolbyWindow.g.cs
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\LinkedInWindow.g.cs
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\MainWindow.g.cs
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\PsWindow.g.cs
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\ReaderWindow.g.cs
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\SeeAllWindow.g.cs
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\TikTokWindow.g.cs
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\App.g.cs
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\Essential Apps_MarkupCompile.cache
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\Essential Apps_MarkupCompile.lref
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\DolbyWindow.baml
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\LinkedInWindow.baml
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\MainWindow.baml
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\PsWindow.baml
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\ReaderWindow.baml
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\Theme\DolbyTheme.baml
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\Theme\LinkedInTheme.baml
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\Theme\PsTheme.baml
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\Theme\ReaderTheme.baml
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\Theme\TikTokTheme.baml
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\SeeAllWindow.baml
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\Essential Apps.g.resources
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\Essential_Apps.Properties.Resources.resources
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\Essential Apps.csproj.GenerateResource.cache
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\Essential Apps.csproj.CoreCompileInputs.cache
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\Essential Apps.exe
+C:\Users\zhaoj\source\repos\Essential Apps\Essential Apps\obj\Release\Essential Apps.pdb
